@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A Guide to Working with Me
 
 You can use the [editor on GitHub](https://github.com/dphelps0501/personal-user-manual/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
